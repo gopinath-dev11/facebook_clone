@@ -22,7 +22,7 @@ A Calendar of events with clickable dates.
 Advertisement section with an image and text.
 Active conversations with friends, showing online status.
 # 5. Technologies Used
-=>HTML: Structured layout with divs, sections, and headers for the content.
-=>CSS: Applied for layout, typography, and colors. The page adopts Facebook's blue-white theme.
-=>JavaScript: Likely used for interactivity (e.g., opening chats, posting updates, switching tabs).
+=>HTML: Structured layout with divs, sections, and headers for the content.<br />
+=>CSS: Applied for layout, typography, and colors. The page adopts Facebook's blue-white theme.<br />
+=>JavaScript: Likely used for interactivity (e.g., opening chats, posting updates, switching tabs).<br />
 This description will help users understand the structure and design of the page you created with HTML, CSS, and JavaScript. You can also include instructions for cloning or improving the project if needed.
