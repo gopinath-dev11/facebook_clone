@@ -25,4 +25,5 @@ Active conversations with friends, showing online status.
 =>HTML: Structured layout with divs, sections, and headers for the content.<br />
 =>CSS: Applied for layout, typography, and colors. The page adopts Facebook's blue-white theme.<br />
 =>JavaScript: Likely used for interactivity (e.g., opening chats, posting updates, switching tabs).<br />
+<br />
 This description will help users understand the structure and design of the page you created with HTML, CSS, and JavaScript. You can also include instructions for cloning or improving the project if needed.
