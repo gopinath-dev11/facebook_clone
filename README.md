@@ -7,7 +7,7 @@ Icons for notifications, messages, and live streams at the center.
 A profile icon on the far right with a user avatar.
 Search bar positioned at the top-right for easy navigation.
 # 2. Sidebar Navigation (Left)
-Main navigation links to:
+Main navigation links to:<br />
 a)Latest News<br />
 b)Friends<br />
 c)Groups<br />
