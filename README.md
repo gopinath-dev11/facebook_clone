@@ -1,4 +1,4 @@
-# facebook_clone
+# Facebook_Clone
 This webpage mimics the structure and functionality of a typical Facebook interface, built using HTML, CSS, and JavaScript. Below is an overview of its sections:
 
 # 1. Header (Top Navigation Bar)
@@ -8,15 +8,15 @@ A profile icon on the far right with a user avatar.
 Search bar positioned at the top-right for easy navigation.
 # 2. Sidebar Navigation (Left)
 Main navigation links to:
-a)Latest News
-b)Friends
-c)Groups
-d)Marketplace
-e)Watch
+a)Latest News<br />
+b)Friends<br />
+c)Groups<br />
+d)Marketplace<br />
+e)Watch<br />
 # 3. Main Content Area (Center)
-The top section features Stories with profile images (like Instagram or Facebook stories), where the user can create or view stories from others.
-Below the stories is the Post area, where the user can input a new status update (text, images, videos, feelings).
-The feed also contains an example post by the user, Klaus Mikaelson, mentioning his interest in coding and tech with hashtags.
+The top section features Stories with profile images (like Instagram or Facebook stories), where the user can create or view stories from others.<br />
+Below the stories is the Post area, where the user can input a new status update (text, images, videos, feelings).<br />
+The feed also contains an example post by the user, Klaus Mikaelson, mentioning his interest in coding and tech with hashtags.<br />
 # 4. Right Sidebar
 A Calendar of events with clickable dates.
 Advertisement section with an image and text.
